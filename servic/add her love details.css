@@ -1,0 +1,74 @@
+body {
+  background-color: rgb(182, 50, 116);
+}
+.love {
+  text-align: center;
+  color: rgb(253, 14, 14);
+  background-color: rgb(247, 236, 243);
+  width: 450px;
+  margin-left: 450px;
+  margin-right: 450px;
+  margin-top: 90px;
+  border-collapse: collapse;
+  border-radius: 7px;
+}
+.details h3 {
+  text-align: left;
+}
+
+.details {
+  border: 6px solid rgb(0, 0, 0);
+  border-collapse: collapse;
+  margin-right: 350px;
+  margin-left: 450px;
+  border-radius: 8%;
+}
+
+input[type="name"],
+input[type="gf"],
+input[type="bf"],
+input[type="address"],
+input[type="ys"],
+input[type="fb"] {
+  width: 90%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid rgb(219, 16, 16);
+  box-sizing: border-box;
+}
+
+input[type="ls"] {
+  width: 90%;
+  padding: 18px 20px;
+  margin: 10px 0;
+  display: inline-block;
+  border: 1px solid rgb(224, 21, 21);
+  box-sizing: border-box;
+}
+.submit {
+  width: 100px;
+  height: 40px;
+  padding: 13px;
+  margin-left: 100px;
+  border-collapse: collapse;
+  border-color: red;
+  margin-top: 10px;
+  background-color: rgb(238, 62, 129);
+  border-radius: 8px;
+  border-bottom: 20px;
+}
+input=[type="checkbox"] {
+  color: red;
+}
+.bome {
+  margin-left: 45px;
+  margin-top: 60px;
+  margin: 20px;
+  width: 60px;
+  height: 50px;
+  background-color: rgb(248, 245, 245);
+}
+.bome a {
+  color: black;
+}

@@ -1,0 +1,15 @@
+img_avatar2.png
+<li>
+      <a
+        href="
+        login from/login from.html"
+        class="signup-btn"
+        ><span><b>Love Sign Up</b></span></a>
+    </li>
+    <div class="search--box">
+      <input id="search" autocapitalize="none" a utocomplete="off"
+      autocorrect="off" name="search-box" tabindex="0" type="text"
+      spellcheck="true" placeholder="search" text-size="5px;" aria-label="Search"
+      aria-haspopup="false" role="combobox" aria-autocomplete="list" dir="ltr"
+      class="ytd-searchbox" style="outline-color: rgb(226, 120, 49);" none;">
+    </div>
